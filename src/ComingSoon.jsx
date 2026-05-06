@@ -149,7 +149,7 @@ export default function ComingSoon() {
                 initial={{ opacity: 0, y: -6 }}
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ duration: 0.9, delay: 0.3 }}
-                className="font-display text-2xl md:text-3xl tracking-[0.45em] text-[#3a2a14]"
+                className="font-display italic text-xl md:text-3xl tracking-[0.12em] text-[#3a2a14]"
                 style={SAND_TEXT_SHADOW}
               >
                 {wedding.monogram}

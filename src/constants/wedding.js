@@ -9,5 +9,5 @@ export const site = {
 }
 
 export const wedding = {
-  monogram: 'S & S',   // Susrita & Sangram
+  monogram: 'Sangram and Susrita',
 }
